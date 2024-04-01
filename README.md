@@ -15,7 +15,7 @@ The following JavaScript code challenges are included in this project:
 - [ ] Challenge 3 Bonus: Implement ability to make more length conversions
 - [x] Challenge 4: Calculate the sum of numbers within an array
 - [ ] Challenge 4 Bonus: Create a function that can return the sum of a particular column or row number in a table
-- [ ] Challenge 5: Create a function that reverses an array
+- [x] Challenge 5: Create a function that reverses an array
 - [ ] Challenge 6: Sort an array from lowest to highest
 - [ ] Challenge 7: Create a function that filters out negative numbers
 - [ ] Challenge 8: Remove the spaces found in a string
