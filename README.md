@@ -12,7 +12,9 @@ The following JavaScript code challenges are included in this project:
 - [x] Challenge 1: Print all even numbers from 0 – 10
 - [x] Challenge 2: Print a table containing multiplication tables
 - [x] Challenge 3: Create a length converter function
-- [ ] Challenge 4: Calculate the sum of numbers within an array
+- [ ] Challenge 3 Bonus: Implement ability to make more length conversions
+- [x] Challenge 4: Calculate the sum of numbers within an array
+- [ ] Challenge 4 Bonus: Create a function that can return the sum of a particular column or row number in a table
 - [ ] Challenge 5: Create a function that reverses an array
 - [ ] Challenge 6: Sort an array from lowest to highest
 - [ ] Challenge 7: Create a function that filters out negative numbers
