@@ -10,6 +10,7 @@ These challenges are designed to help beginners practice their JavaScript skills
 The following JavaScript code challenges are included in this project:
 
 - [x] Challenge 1: Print all even numbers from 0 – 10
+- [ ] Challenge 1 Alternative: Print all even numbers from 0 – 10
 - [x] Challenge 2: Print a table containing multiplication tables
 - [x] Challenge 3: Create a length converter function
 - [ ] Challenge 3 Bonus: Implement ability to make more length conversions
@@ -18,7 +19,8 @@ The following JavaScript code challenges are included in this project:
 - [x] Challenge 5: Create a function that reverses an array
 - [x] Challenge 6: Sort an array from lowest to highest
 - [x] Challenge 7: Create a function that filters out negative numbers
-- [ ] Challenge 8: Remove the spaces found in a string
+- [x] Challenge 8: Remove the spaces found in a string
+- [ ] Challenge 8 Alternative: Use .splice() and .join() to remove the spaces found in a string
 - [ ] Challenge 9: Return a Boolean if a number is divisible by 10
 - [ ] Challenge 10: Return the number of vowels in a string
 
