@@ -57,4 +57,4 @@ The following JavaScript code challenges are included in this project:
 
 ## Acknowledgments
 
-Special thanks to Codecademy for providing these challenging exercises to help beginners learn and practice JavaScript programming.
+Special thanks to the Codecademy Team for providing these challenging exercises to help beginners learn and practice JavaScript programming.
