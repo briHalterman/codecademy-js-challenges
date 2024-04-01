@@ -22,7 +22,7 @@ The following JavaScript code challenges are included in this project:
 - [x] Challenge 8: Remove the spaces found in a string
 - [ ] Challenge 8 Alternative: Use .splice() and .join() to remove the spaces found in a string
 - [x] Challenge 9: Return a Boolean if a number is divisible by 10
-- [ ] Challenge 10: Return the number of vowels in a string
+- [x] Challenge 10: Return the number of vowels in a string
 
 ## Code Challenges
 
