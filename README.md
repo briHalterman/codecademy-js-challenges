@@ -6,7 +6,7 @@ This directory contains my solutions to the "10 JavaScript Code Challenges for B
 
 These challenges are designed to help beginners practice their JavaScript skills and improve problem-solving abilities. Each challenge tackles a specific concept or problem commonly encountered in JavaScript programming.
 
-## Code Challenges
+## Overview
 The following JavaScript code challenges are included in this project:
 
 1. **Print all even numbers from 0 – 10**
@@ -19,6 +19,8 @@ The following JavaScript code challenges are included in this project:
 8. **Remove the spaces found in a string**
 9. **Return a Boolean if a number is divisible by 10**
 10. **Return the number of vowels in a string**
+
+## Code Challenges
 
 1. **Print all even numbers from 0 – 10**
    - Try to make the solution to this problem as efficiently as possible. Consider using loops that would allow you to type the fewest characters/commands. While you could simply print the even numbers, get creative and see how you could output them in a way that would work up to 10 or even up to 10,000 with little extra effort.
