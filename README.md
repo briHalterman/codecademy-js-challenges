@@ -16,7 +16,7 @@ The following JavaScript code challenges are included in this project:
 - [x] Challenge 4: Calculate the sum of numbers within an array
 - [ ] Challenge 4 Bonus: Create a function that can return the sum of a particular column or row number in a table
 - [x] Challenge 5: Create a function that reverses an array
-- [ ] Challenge 6: Sort an array from lowest to highest
+- [x] Challenge 6: Sort an array from lowest to highest
 - [ ] Challenge 7: Create a function that filters out negative numbers
 - [ ] Challenge 8: Remove the spaces found in a string
 - [ ] Challenge 9: Return a Boolean if a number is divisible by 10
