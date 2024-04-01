@@ -6,4 +6,7 @@ printEvenNumbers = function(n) {
     }
   }
   return evenNumbers;
+
+  // Time Complexity = O(n)
+  // Space Complexity = O(n)
 }
