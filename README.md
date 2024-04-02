@@ -17,7 +17,9 @@ The following JavaScript code challenges are included in this project:
 - [x] Challenge 4: Calculate the sum of numbers within an array
 - [ ] Challenge 4 Bonus: Create a function that can return the sum of a particular column or row number in a table
 - [x] Challenge 5: Create a function that reverses an array
+- [ ] Challenge 5 Bonus: Create a function that reverses an array. Solve without built-in Array.reverse() method
 - [x] Challenge 6: Sort an array from lowest to highest
+- [ ] Challenge 6 Bonus: Sort an array from lowest to highest. Solve without built-in Array.sort() method
 - [x] Challenge 7: Create a function that filters out negative numbers
 - [x] Challenge 8: Remove the spaces found in a string
 - [ ] Challenge 8 Alternative: Use .splice() and .join() to remove the spaces found in a string
